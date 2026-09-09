@@ -37,8 +37,3 @@ The presentation helps users understand phishing attacks, recognize suspicious m
 - Enable Multi-Factor Authentication (MFA) where available.
 - Keep software and browsers updated.
 - Report suspicious messages to the appropriate organization.
-
-
-CodeAlpha Cyber Security Internship
-
-**Task 2: Phishing Awareness Training**
