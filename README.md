@@ -1,8 +1,8 @@
-# CodeAlpha Phishing Awareness Training
+# Phishing Awareness Training
 
 ## 📌 Project Overview
 
-This project is a phishing awareness training presentation developed for the CodeAlpha Cyber Security Internship.
+This project is a phishing awareness training presentation.
 
 The presentation helps users understand phishing attacks, recognize suspicious messages and fake websites, and follow safe practices to reduce phishing risks.
 
@@ -38,7 +38,6 @@ The presentation helps users understand phishing attacks, recognize suspicious m
 - Keep software and browsers updated.
 - Report suspicious messages to the appropriate organization.
 
-## 🎓 Internship
 
 CodeAlpha Cyber Security Internship
 
